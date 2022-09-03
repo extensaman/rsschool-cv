@@ -1,12 +1,12 @@
 # Yusikau Aliaksandr
 
-### Contacts
+## Contacts
 * **Location:** Minsk
 * **Email:** yusikau.aliaksandr@gmail.com
 * **Telegram:** @yusikau
 * **[LinkedIn](https://www.linkedin.com/in/ayusikau/)**
-
-### About myself
+---
+## About myself
 I have the following personal and business qualities:
 - constant striving for professional development;
 - the ability to easily find contact with people and work in a team;
@@ -14,9 +14,20 @@ I have the following personal and business qualities:
 - creative thinking;
 - willingness to make decisions independently;
 - active life position.
-
-### Skills
+---
+## Skills
 + HTML5, CSS
 + Java
 + Docker
 + Git
+---
+## Code example
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert(result);
+```
+---
