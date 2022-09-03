@@ -1,1 +1,1 @@
-https://extensaman.github.io/rsschool-cv/cv
+(https://extensaman.github.io/rsschool-cv/cv)
