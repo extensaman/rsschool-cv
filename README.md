@@ -1,1 +1,1 @@
-(https://extensaman.github.io/rsschool-cv/cv)
+[Lint to CV-markup](https://extensaman.github.io/rsschool-cv/cv)
