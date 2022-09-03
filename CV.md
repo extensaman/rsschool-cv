@@ -31,8 +31,11 @@ let result = sum(1, 2);
 alert(result);
 ```
 ## Education
-* **University:**Belarusian State University of Informatics and Radioelectronics
+* **University:** Belarusian State University of Informatics and Radioelectronics
 * **Courses**
-    + *IT-Academy.by*, Java Core
-    + *IT-Academy.by*, Java Enterprise
-    + *Epam training center*, Java Web Development
+    + Java Core (*IT-Academy.by*)
+    + Java Enterprise (*IT-Academy.by*)
+    + Java Web Development (*Epam training center*)
+
+## Language
+English level **B1**
