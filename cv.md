@@ -3,7 +3,7 @@
 ## Contacts
 * **Location:** Minsk
 * **Email:** yusikau.aliaksandr@gmail.com
-* **Telegram:** @yusikau
+* **Telegram:** @yusikau_av
 * **[LinkedIn](https://www.linkedin.com/in/ayusikau/)**
 
 ## About myself
